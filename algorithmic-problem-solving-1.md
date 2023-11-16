@@ -2,7 +2,9 @@ Given a non-empty array of integers nums, every element appears twice except for
 
 You must implement a solution with a linear runtime complexity and use only constant extra space.
 
- 
+// Problem: Given a list of numbers where each number appears twice expect for one, find and return the lonely  number
+//Solution should have a linear runtim
+
 
 Example 1:
 
